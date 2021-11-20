@@ -218,11 +218,11 @@ const Header = () => {
                     </Logo>
                     <MainMenu className={'nav-menu'}>
                         <ul>
-                            <li><Link to={'/Diplom-work/'} id={'home'} className={'active'} onClick={LinkClick}>Home</Link></li>
-                            <li><Link to={'/Diplom-work/services'} id={'services'} onClick={LinkClick}>Services</Link></li>
-                            <li><Link to={'/Diplom-work/our-work'} id={'work'} onClick={LinkClick}>Our work</Link></li>
-                            <li><Link to={'/Diplom-work/reviews'} id={'reviews'} onClick={LinkClick}>Reviews</Link></li>
-                            <li><Link to={'/Diplom-work/contacts'} id={'contacts'} onClick={LinkClick}>Contact us</Link></li>
+                            <li><Link to={'/'} id={'home'} className={'active'} onClick={LinkClick}>Home</Link></li>
+                            <li><Link to={'/services'} id={'services'} onClick={LinkClick}>Services</Link></li>
+                            <li><Link to={'/our-work'} id={'work'} onClick={LinkClick}>Our work</Link></li>
+                            <li><Link to={'/reviews'} id={'reviews'} onClick={LinkClick}>Reviews</Link></li>
+                            <li><Link to={'/contacts'} id={'contacts'} onClick={LinkClick}>Contact us</Link></li>
                         </ul>
                     </MainMenu>
                     <Contacts>

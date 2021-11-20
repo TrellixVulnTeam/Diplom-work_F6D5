@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Diplom-work/static/css/main.30e893be.chunk.css",
+    "main.js": "/Diplom-work/static/js/main.01179061.chunk.js",
+    "main.js.map": "/Diplom-work/static/js/main.01179061.chunk.js.map",
+    "runtime-main.js": "/Diplom-work/static/js/runtime-main.59fa2d06.js",
+    "runtime-main.js.map": "/Diplom-work/static/js/runtime-main.59fa2d06.js.map",
+    "static/js/2.7e970438.chunk.js": "/Diplom-work/static/js/2.7e970438.chunk.js",
+    "static/js/2.7e970438.chunk.js.map": "/Diplom-work/static/js/2.7e970438.chunk.js.map",
+    "index.html": "/Diplom-work/index.html",
+    "static/css/main.30e893be.chunk.css.map": "/Diplom-work/static/css/main.30e893be.chunk.css.map",
+    "static/js/2.7e970438.chunk.js.LICENSE.txt": "/Diplom-work/static/js/2.7e970438.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/Diplom-work/static/media/roboto-regular-webfont.9cfd0825.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59fa2d06.js",
+    "static/js/2.7e970438.chunk.js",
+    "static/css/main.30e893be.chunk.css",
+    "static/js/main.01179061.chunk.js"
+  ]
+}

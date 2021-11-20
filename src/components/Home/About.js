@@ -150,7 +150,7 @@ const About = () =>{
                 <AboutArea>
                     <AboutItem>
                         <CircleBg>
-                            <img src='./img/write.png' alt='Write' />
+                            <img src='./img/Write.png' alt='Write' />
                         </CircleBg>
                         <h3>Feature one</h3>
                         <span>
@@ -160,7 +160,7 @@ const About = () =>{
                     </AboutItem>
                     <AboutItem>
                         <CircleBg>
-                            <img src='./img/write.png' alt='Write' />
+                            <img src='./img/Write.png' alt='Write' />
                         </CircleBg>
                         <h3>Feature two</h3>
                         <span>
@@ -170,7 +170,7 @@ const About = () =>{
                     </AboutItem>
                     <AboutItem>
                         <CircleBg>
-                            <img src='./img/search.png' alt='Write' />
+                            <img src='./img/Search.png' alt='Write' />
                         </CircleBg>
                         <h3>Feature three</h3>
                         <span>
@@ -180,7 +180,7 @@ const About = () =>{
                     </AboutItem>
                     <AboutItem>
                         <CircleBg>
-                            <img src='./img/say.png' alt='Write' />
+                            <img src='./img/Say.png' alt='Write' />
                         </CircleBg>
                         <h3>Feature four</h3>
                         <span>
